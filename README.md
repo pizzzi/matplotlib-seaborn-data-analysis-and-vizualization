@@ -54,3 +54,6 @@ Analyzes a car sales dataset to identify price patterns, brand trends, and marke
 
 ## 📈 Key Takeaway
 These projects demonstrate how data visualization can simplify complex datasets and reveal meaningful insights into global coffee production and automobile markets.
+
+![coffee_production](https://github.com/user-attachments/assets/fa6ee55e-8396-4be8-bfaa-450e373950fc)
+
